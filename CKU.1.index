@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>사이트로 이동</title>
+</head>
+<body>
+    <!-- 주어진 사이트 주소로 바로 이동하는 링크 -->
+    <a href="https://dorm.cku.ac.kr/mypage/?code=070200">주어진 사이트로 이동</a>
+</body>
+</html>
